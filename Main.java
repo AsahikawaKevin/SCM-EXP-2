@@ -15,5 +15,6 @@ public class Main {
 		System.out.println(linkedList);
 		linkedList.removeLast();
 		System.out.println(linkedList);
+		System.out.println(linkedList+"/n/tsuccessful");
 	}
 }
